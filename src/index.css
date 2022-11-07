@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap');
+
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, -apple-system, BlinkMacSystemFont, 'Inter', Helvetica, Arial sans-serif;
+  font-size: 1.6rem;
+  line-height: 1.8;
+  background: linear-gradient(112.1deg, rgb(4, 6, 13) 11.4%, rgb(4, 11, 34) 70.2%);
+}
